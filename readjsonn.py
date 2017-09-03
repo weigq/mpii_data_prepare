@@ -24,4 +24,3 @@ print(len(res))
 with open('res_.json', 'w') as res_file:
     json.dump(res, res_file)
 
-
